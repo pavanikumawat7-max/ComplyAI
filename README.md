@@ -19,6 +19,13 @@ ComplyAI takes a regulation and a company's existing controls, extracts the regu
 
 **Key technical point:** Google Gemini handles *interpretation and explanation* (extracting rules, judging coverage, writing the report), while **risk and compliance scores are calculated deterministically** in plain Python from severity weights and assessment statuses. Scores are reproducible and auditable, not model opinions.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/8cfce0b3-8e52-40a6-a4ba-43238d18ce7a
+
+
+
 ## Key Features
 
 - **Rule extraction:** splits regulation text into atomic obligations with a category and severity.
