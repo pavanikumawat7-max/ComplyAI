@@ -125,9 +125,3 @@ ComplyAI/
 ```
 
 
-
-> 🎥 **Demo video:** _coming soon_ — add your link here, e.g. `[Watch the walkthrough](https://...)`
-
-## Notes
-
-Fine amounts are model estimates, not legal advice. The service is stateless and has no authentication or rate limiting.
